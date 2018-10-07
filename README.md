@@ -1,0 +1,2 @@
+# tinggalaja.js
+tinggalaja
